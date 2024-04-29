@@ -2,6 +2,8 @@
 
 https://public.tableau.com/app/profile/rogelio.marin/viz/VentasCategorias_YTDvsLY/Dashboard2?publish=yes
 
+Data Source: https://drive.google.com/file/d/1VenmPy5rLs50w0k_9qrH_FS20kJ42toW/view
+
 ## Overview
 This Tableau project is designed to analyze and compare key metrics such as utilities, sales, and units sold for the current year versus the previous year. The visualization provides insights into the performance trends and highlights the top 5 and bottom 5 items for comparison.
 
